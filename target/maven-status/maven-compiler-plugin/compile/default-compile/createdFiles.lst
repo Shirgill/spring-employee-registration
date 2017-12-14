@@ -1,0 +1,10 @@
+com\company\employee\dto\EmployeeDetailsDTO.class
+com\company\employee\crud\service\EmployeeCrudService.class
+com\company\employee\registration\config\WebConfig.class
+com\company\employee\registration\config\RootConfig.class
+com\company\employee\crud\service\EmployeeCrudServiceImpl.class
+com\company\employee\crud\entity\Employee.class
+com\company\employee\crud\controller\EmployeeCreateReadUpdateDeleteController.class
+com\company\employee\crud\repository\EmployeeCrudDAOImpl.class
+com\company\employee\crud\repository\EmployeeCrudDAO.class
+com\company\employee\registration\config\WebAppInitializer.class
